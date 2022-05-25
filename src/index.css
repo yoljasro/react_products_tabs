@@ -7,7 +7,43 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: gothampro;
+  src: url('./assets/fonts/gothampro.ttf');
+}
+@font-face {
+  font-family: gothampro-bold;
+  src: url('./assets/fonts/gothampro_black.ttf');
+}
+@font-face {
+  font-family: gothampro_blackitalic;
+  src: url('./assets/fonts/gothampro_blackitalic.ttf');
+}
+@font-face {
+  font-family: gothampro_bold;
+  src: url('./assets/fonts/gothampro_bold.ttf');
+}
+@font-face {
+  font-family: gothampro_bolditalic;
+  src: url('./assets/fonts/gothampro_bolditalic.ttf');
+}
+@font-face {
+  font-family: gothampro_italic;
+  src: url('./assets/fonts/gothampro_italic.ttf');
+}
+@font-face {
+  font-family: gothampro_light;
+  src: url('./assets/fonts/gothampro_light.ttf');
+}
+@font-face {
+  font-family: gothampro_lightitalic;
+  src: url('./assets/fonts/gothampro_lightitalic.ttf');
+}
+@font-face {
+  font-family: gothampro_medium;
+  src: url('./assets/fonts/gothampro_medium.ttf');
+}
+@font-face {
+  font-family: gothampro_mediuitalic;
+  src: url('./assets/fonts/gothampro_mediumitalic.ttf');
 }
